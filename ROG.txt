@@ -7,9 +7,9 @@
 	<=======       suggestions or ideas for new script :)         =======>
 	<====================================================================>
 	<===============     XHomie Face Page fo Contact    =================>
-	<============ © 2016 By FH and XH of XHomie Community  ==============>
+	<============ Â© 2016 By FH and XH of XHomie Community  ==============>
 	<====================================================================>
-	< ================= <XHomie Free for the Community> =================>¨
+	< ================= <XHomie Free for the Community> =================>Â¨
 	11111111111111111111111111111111111111111111111111111111111111111110*/
 	// # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 	// < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
@@ -18,7 +18,7 @@
 	// # <================ <You Can Change for you place> ==================>	#
 	private class User_Settings : Settings{
 		int Play_Roulette_for_Random_Weapons = 5; //>> number of times to play roulette if 0 or less, 
-		// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> only get the rest of activated weapons.
+		// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> only get the rest of activated weapons. (you must wait v1.0b) :)
 		int Melees_Weapons_Aviables = 1; // "1" Active the Melee Random Weapons, "0" for desactive.
 		int HandGuns_Weapons_Aviable = 1; // "1" Active the HandGuns Random Weapons, "0" for desactive.	
 		int Rifles_Weapons_Aviable = 1; // "1" Active the Rifles Random Weapons, "0" for desactive.
